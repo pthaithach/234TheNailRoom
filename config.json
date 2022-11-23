@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "The Nail Room",
+        "slug"      : "The-nail-room",
+        "phone"     : "(480) 659-1587",
+        "email"     : "susanle310@gmail.com",
+        "address"   : "15425 N Scottsdale Rd Suite 110 Scottsdale, Arizona 85254",
+        "time_1"    : "Mon - Fri: 09:30 AM - 07:00 PM",
+        "time_2"    : "Sat: 09:30 AM - 06:00 PM",
+        "time_3"    : "Sun: 10:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/thenailroomaz85254",
+        "instagram" :   "https://www.instagram.com/thenailroomaz",
+        "google"    :   "https://g.page/thenailroomaz", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NTA5NDR8dGhlbmFpbHJvb200ODB8QVpfMDgyMjh8NWU5MTQ5MzIyMjY0MzUxZDVjZDJjYzVhNjBjNzY4ZWE=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2793.6151031648355!2d-111.92466932019465!3d33.62639413105365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b743c2789ec8f%3A0xf1c375808b0702d0!2sThe%20Nail%20Room%2C%20LLC!5e0!3m2!1sen!2s!4v1669176980704!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#3F2B2B",
+        "primary_light"         :   "#87DD2C",
+        "primary_hover"         :   "#87DD2C",
+        "secondary"             :   "#90C73E",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
